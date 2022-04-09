@@ -1,4 +1,4 @@
-<a href="https://www.mevlutcelik.com" title="Mevlüt Çelik"><img src="https://www.mevlutcelik.com/assets/images/logo/background_logo/logoLight_backgroundPrimary.png" alt="Mevlüt Çelik Logo" width="55"/></a>
+<a href="https://www.mevlutcelik.com" title="Mevlüt Çelik"><img src="https://mevlutcelik.com/assets/images/logo/background_logo/bg_primary_light.webp" alt="Mevlüt Çelik Logo" width="55"/></a>
 > I'm a web developer.
 ### My Links
 🌐 **Web site**: [www.mevlutcelik.com](https://lnkload.com/2vRIx "My web site")<br/>
