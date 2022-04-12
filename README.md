@@ -25,12 +25,12 @@ I like the whole process of developing innovative websites.  When designing my w
 
 <br/><br/>
 
-🌐 **Web site**: <a target="_blank" title="Mevlüt Çelik | Web Site (www.mevlutcelik.com)" href="https://www.mevlutcelik.com/">www.mevlutcelik.com</a><br/>
-💼 **LinkedIn**: <a target="_blank" title="Mevlüt Çelik | LinkedIn" href="https://www.linkedin.com/in/mevlutcelik">Mevlüt Çelik</a><br/>
-🧑 **Instagram**: <a target="_blank" title="@mevlut.celik23 | Instagram" href="https://www.instagram.com/mevlut.celik23">@mevlut.celik23</a><br/>
-🧑‍💻 **Codepen**: <a target="_blank" title="Mevlüt Çelik | Codepen" href="https://www.codepen.io/mevlut">Mevlüt Çelik</a><br/>
-🐈‍⬛ **GitHub**: <a target="_blank" title="Mevlüt Çelik | GitHub" href="https://github.com/mevlutcelik">Mevlüt Çelik</a><br/>
-📩 **E-mail**: <a target="_blank" title="info@mevlutcelik.com" href="mailto:info@mevlutcelik.com">info@mevlutcelik.com</a><br/><br/>
+🌐 **Web site**: <a title="Mevlüt Çelik | Web Site (www.mevlutcelik.com)" href="https://www.mevlutcelik.com/" target="_blank">www.mevlutcelik.com</a><br/>
+💼 **LinkedIn**: <a title="Mevlüt Çelik | LinkedIn" href="https://www.linkedin.com/in/mevlutcelik" target="_blank">Mevlüt Çelik</a><br/>
+🧑 **Instagram**: <a title="@mevlut.celik23 | Instagram" href="https://www.instagram.com/mevlut.celik23" target="_blank">@mevlut.celik23</a><br/>
+🧑‍💻 **Codepen**: <a title="Mevlüt Çelik | Codepen" href="https://www.codepen.io/mevlut" target="_blank">Mevlüt Çelik</a><br/>
+🐈‍⬛ **GitHub**: <a title="Mevlüt Çelik | GitHub" href="https://github.com/mevlutcelik" target="_blank">Mevlüt Çelik</a><br/>
+📩 **E-mail**: <a title="info@mevlutcelik.com" href="mailto:info@mevlutcelik.com" target="_blank">info@mevlutcelik.com</a><br/><br/>
 
 ### 🤔 What is my goal?
 
