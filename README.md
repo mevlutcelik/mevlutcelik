@@ -90,3 +90,9 @@ My goal is to help anyone who wants to learn software. To be able to teach even 
 ## 📟 GitHub Stats
 
 ![Mevlüt Çelik | GitHub Stats](https://github-readme-stats.vercel.app/api?username=mevlutcelik)
+
+<br/>
+
+## 👀 Repo Overview
+
+<img src="https://opengraph.githubassets.com/098fd83e7ce68376eb2e01003a55eb7e1eb8b093aeda5e7d87ce9bd2a7d0d0f8/mevlutcelik/mevlutcelik" alt="Mevlüt Çelik (mevlutcelik) | Repo Overview" width="400"/>
