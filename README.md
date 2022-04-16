@@ -18,8 +18,8 @@ I like the whole process of developing innovative websites.  When designing my w
 
 <a target="_blank" title="Mevlüt Çelik | Web Site (www.mevlutcelik.com)" href="https://www.mevlutcelik.com/"><img align="left" src="https://img.shields.io/badge/website-1a73e8?style=for-the-badge&logo=About.me&logoColor=white" alt="www.mevlutcelik.com"/></a>
 <a target="_blank" title="Mevlüt Çelik | LikedIn" href="https://www.linkedin.com/in/mevlutcelik/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mevlüt Çelik | LinkedIn"/></a>
-<a target="_blank" title="@mevlut.celik23 | Instagram" href="https://www.instagram.com/mevlut.celik23/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@mevlut.celik23 | Instagram"/></a>
 <a target="_blank" title="Mevlüt Çelik | Codepen" href="https://www.instagram.com/mevlut.celik23/"><img align="left" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Mevlüt Çelik | Codepen"/></a>
+<a target="_blank" title="@mevlut.celik23 | Instagram" href="https://www.instagram.com/mevlut.celik23/"><img align="left" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="@mevlut.celik23 | Instagram"/></a>
 <a target="_blank" title="Mevlüt Çelik | GitHub" href="https://github.com/mevlutcelik"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Mevlüt Çelik | GitHub"/></a>
 <a target="_blank" title="info@mevlutcelik.com | E-mail" href="mailto:info@mevlutcelik.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="info@mevlutcelik.com | E-mail"/></a>
 
@@ -27,8 +27,8 @@ I like the whole process of developing innovative websites.  When designing my w
 
 🌐 **Web site**: <a title="Mevlüt Çelik | Web Site (www.mevlutcelik.com)" href="https://www.mevlutcelik.com/" target="_blank">www.mevlutcelik.com</a><br/>
 💼 **LinkedIn**: <a title="Mevlüt Çelik | LinkedIn" href="https://www.linkedin.com/in/mevlutcelik" target="_blank">Mevlüt Çelik</a><br/>
-🧑 **Instagram**: <a title="@mevlut.celik23 | Instagram" href="https://www.instagram.com/mevlut.celik23" target="_blank">@mevlut.celik23</a><br/>
 🧑‍💻 **Codepen**: <a title="Mevlüt Çelik | Codepen" href="https://www.codepen.io/mevlut" target="_blank">Mevlüt Çelik</a><br/>
+🧑 **Instagram**: <a title="@mevlut.celik23 | Instagram" href="https://www.instagram.com/mevlut.celik23" target="_blank">@mevlut.celik23</a><br/>
 🐈‍⬛ **GitHub**: <a title="Mevlüt Çelik | GitHub" href="https://github.com/mevlutcelik" target="_blank">Mevlüt Çelik</a><br/>
 📩 **E-mail**: <a title="info@mevlutcelik.com" href="mailto:info@mevlutcelik.com" target="_blank">info@mevlutcelik.com</a><br/><br/>
 
@@ -93,6 +93,18 @@ My goal is to help anyone who wants to learn software. To be able to teach even 
 
 <br/>
 
+## 🔥 GitHub Streak
+
+![Mevlüt Çelik | GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mevlutcelik)
+
+<br/>
+
 ## 👀 Repo Overview
 
 <img src="https://opengraph.githubassets.com/098fd83e7ce68376eb2e01003a55eb7e1eb8b093aeda5e7d87ce9bd2a7d0d0f8/mevlutcelik/mevlutcelik" alt="Mevlüt Çelik (mevlutcelik) | Repo Overview" width="400"/>
+
+<br/>
+
+## 🔢 GitHub Profile Views
+
+![](https://komarev.com/ghpvc/?username=mevlutcelik&label=Profile%20views&color=1a73E8&style=flat)
