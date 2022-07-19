@@ -95,7 +95,7 @@ My goal is to help anyone who wants to learn software. To be able to teach even 
 
 ## 📟 GitHub Stats
 
-![Mevlüt Çelik | GitHub Stats](https://github-readme-stats.vercel.app/api?username=mevlutcelik)
+![Mevlüt Çelik | GitHub Stats](https://github-readme-stats.vercel.app/api?username=mevlutcelik&show_icons=true)
 
 <br/>
 
