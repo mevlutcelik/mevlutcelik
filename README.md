@@ -89,7 +89,7 @@ My goal is to help anyone who wants to learn software. To be able to teach even 
 
 ## 📊 Most Used Language
 
-![Mevlüt Çelik | Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutcelik)
+![Mevlüt Çelik | Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutcelik&layout=compact)
 
 <br/>
 
@@ -102,6 +102,12 @@ My goal is to help anyone who wants to learn software. To be able to teach even 
 ## 🔥 GitHub Streak
 
 ![Mevlüt Çelik | GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mevlutcelik)
+
+<br/>
+
+## 📈 Contribution Graph
+
+![Mevlüt Çelik | Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mevlutcelik&bg_color=ffffff&color=1b9ce6&line=1b9ce6&point=1b9ce6&area=true&hide_border=true)
 
 <br/>
 
