@@ -14,6 +14,12 @@ I like the whole process of developing innovative websites.  When designing my w
 
 <br/>
 
+## 🔢 GitHub Profile Views
+
+![](https://komarev.com/ghpvc/?username=mevlutcelik&label=Profile%20views&color=1a73E8&style=flat)
+
+<br/>
+
 ### 🤝 Connect with me:
 
 <a target="_blank" title="Mevlüt Çelik | Web Site (www.mevlutcelik.com)" href="https://www.mevlutcelik.com/"><img align="left" src="https://img.shields.io/badge/website-1a73e8?style=for-the-badge&logo=About.me&logoColor=white" alt="www.mevlutcelik.com"/></a>
@@ -114,9 +120,3 @@ My goal is to help anyone who wants to learn software. To be able to teach even 
 ## 👀 Repo Overview
 
 <img src="https://opengraph.githubassets.com/098fd83e7ce68376eb2e01003a55eb7e1eb8b093aeda5e7d87ce9bd2a7d0d0f8/mevlutcelik/mevlutcelik" alt="Mevlüt Çelik (mevlutcelik) | Repo Overview" width="400"/>
-
-<br/>
-
-## 🔢 GitHub Profile Views
-
-![](https://komarev.com/ghpvc/?username=mevlutcelik&label=Profile%20views&color=1a73E8&style=flat)
