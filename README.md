@@ -106,7 +106,7 @@ My goal is to help anyone who wants to learn software. To be able to teach even 
 ## 📟 GitHub Stats
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=mevlutcelik&show_icons=true&theme=dracula&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-readme-stats.vercel.app/api?username=mevlutcelik&show_icons=true&theme=radical&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
   <img title="Mevlüt Çelik | GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mevlutcelik&show_icons=true">
 </picture>
 
@@ -114,7 +114,10 @@ My goal is to help anyone who wants to learn software. To be able to teach even 
 
 ## 🔥 GitHub Streak
 
-![Mevlüt Çelik | GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mevlutcelik)
+<picture>
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=mevlutcelik&theme=dark&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
+  <img title="Mevlüt Çelik | GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mevlutcelik">
+</picture>
 
 <br/>
 
