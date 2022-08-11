@@ -123,7 +123,10 @@ My goal is to help anyone who wants to learn software. To be able to teach even 
 
 ## 📈 Contribution Graph
 
-![Mevlüt Çelik | Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mevlutcelik&bg_color=ffffff&color=1b9ce6&line=1b9ce6&point=1b9ce6&area=true&hide_border=true)
+<picture>
+  <source srcset="https://activity-graph.herokuapp.com/graph?username=mevlutcelik&color=1a73e8&line=1a73e8&point=1b9ce6&area=true&hide_border=true&theme=dark&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
+  <img title="Mevlüt Çelik | Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=mevlutcelik&bg_color=ffffff&color=1b9ce6&line=1b9ce6&point=1b9ce6&area=true&hide_border=true">
+</picture>
 
 <br/>
 
