@@ -95,13 +95,20 @@ My goal is to help anyone who wants to learn software. To be able to teach even 
 
 ## 📊 Most Used Language
 
-![Mevlüt Çelik | Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutcelik&layout=compact)
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutcelik&layout=compact&theme=dark&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
+  <img title="Mevlüt Çelik | Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutcelik&layout=compact">
+</picture>
 
 <br/>
 
 ## 📟 GitHub Stats
 
-![Mevlüt Çelik | GitHub Stats](https://github-readme-stats.vercel.app/api?username=mevlutcelik&show_icons=true)
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=mevlutcelik&show_icons=true&theme=dracula&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
+  <img title="Mevlüt Çelik | GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mevlutcelik&show_icons=true">
+</picture>
 
 <br/>
 
