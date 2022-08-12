@@ -123,8 +123,8 @@ My goal is to help anyone who wants to learn software. To be able to teach even 
 ## 🏆 GitHub Trophies
 
 <picture>
-  <source srcset="https://github-profile-trophy.vercel.app/?username=mevlutcelik&column=6&theme=radical&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
-  <img title="Mevlüt Çelik | GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=mevlutcelik&column=6">
+  <source srcset="https://github-profile-trophy.vercel.app/?username=mevlutcelik&column=8&theme=radical&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
+  <img title="Mevlüt Çelik | GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=mevlutcelik&column=8">
 </picture>
 
 <br/><br/>
