@@ -91,17 +91,16 @@ My goal is to help anyone who wants to learn software. To be able to teach even 
 ### ✍️ Text Formatting
 <a href="#!">![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)</a>
 
-<br/>
+<br/><br/>
 
 ## 📊 Most Used Language
-
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutcelik&layout=compact&theme=dark&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
   <img title="Mevlüt Çelik | Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutcelik&layout=compact">
 </picture>
 
-<br/>
+<br/><br/>
 
 ## 📟 GitHub Stats
 
@@ -110,7 +109,7 @@ My goal is to help anyone who wants to learn software. To be able to teach even 
   <img title="Mevlüt Çelik | GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mevlutcelik&show_icons=true">
 </picture>
 
-<br/>
+<br/><br/>
 
 ## 🔥 GitHub Streak
 
@@ -119,7 +118,16 @@ My goal is to help anyone who wants to learn software. To be able to teach even 
   <img title="Mevlüt Çelik | GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mevlutcelik">
 </picture>
 
-<br/>
+<br/><br/>
+
+## 🏆 GitHub Trophies
+
+<picture>
+  <source srcset="https://github-profile-trophy.vercel.app/?username=mevlutcelik&column=6&theme=radical&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
+  <img title="Mevlüt Çelik | GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=mevlutcelik&column=6">
+</picture>
+
+<br/><br/>
 
 ## 📈 Contribution Graph
 
@@ -129,6 +137,7 @@ My goal is to help anyone who wants to learn software. To be able to teach even 
 </picture>
 
 <br/>
+
 
 ## 👀 Repo Overview
 
