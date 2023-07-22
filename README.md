@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.mevlutcelik.com/" target="_blank" rel="noreferrer"><img src="https://i.hizliresim.com/249suuz.png" alt="Mevlüt Çelik"></a>
+  <a href="https://www.mevlutcelik.com/" target="_blank" rel="noreferrer"><img src="https://i.hizliresim.com/eq4m6bl.png" alt="Mevlüt Çelik"></a>
 </p>
 
 <h3 align="center">
