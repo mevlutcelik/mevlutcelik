@@ -10,6 +10,8 @@ Hi there, I'm <a href="https://www.mevlutcelik.com/" target="_blank" rel="norefe
 I'm a Software Developer 💻
 </h2>
 
+<p align="center">Full Stack Developer | Web | Mobil | Frontend | Backend</p>
+
 I like the whole process of developing innovative websites.  When designing my websites, I take care that they are Responsive, Accessible, SEO-Compliant, and High-Performance.
 
 <br/>
