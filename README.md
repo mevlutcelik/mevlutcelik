@@ -87,54 +87,22 @@ Ayrıca mobil uygulamalar için **React Native** ile güvenli ve kullanıcı dos
 
 ## 📈 GitHub İstatistikler
 
-### 🔥 GitHub Streak
-
 <p align="left">
-  <picture>
+    <picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=mevlutcelik&theme=dark&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
     <img title="Mevlüt Çelik | GitHub Streak" src="https://streak-stats.demolab.com?user=mevlutcelik" alt="GitHub Streak">
   </picture>
-</p>
-
-<br/><br/>
-
-### 📊 Top Language
-
-<p align="left">
+  &nbsp;
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutcelik&layout=compact&theme=dark&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
     <img title="Mevlüt Çelik | Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutcelik&layout=compact" alt="Top Languages">
   </picture>
-</p>
-
-<br/><br/>
-
-### 📟 GitHub Stats
-
-<p align="left">
+  &nbsp;
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=mevlutcelik&show_icons=true&theme=radical&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
     <img title="Mevlüt Çelik | GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mevlutcelik&show_icons=true" alt="GitHub Stats">
   </picture>
 </p>
-
-<br/><br/>
-
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <picture>
-    <source srcset="https://github-profile-trophy.vercel.app/?username=mevlutcelik&column=8&theme=radical&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
-    <img title="Mevlüt Çelik | GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=mevlutcelik&column=8" alt="GitHub Trophies">
-  </picture>
-</p>
-
-<br/><br/>
-
-## 📫 İletişim
-- 🌐 **Web Sitesi:** [mevlutcelik.com](https://mevlutcelik.com)  
-- 📧 **E-posta:** <a href="mailto:info@mevlutcelik.com">info@mevlutcelik.com</a>  
-- 🔗 **LinkedIn:** [linkedin.com/in/mevlutcelik](https://www.linkedin.com/in/mevlutcelik) 
 
 <br/><br/>
 
