@@ -2,7 +2,7 @@
   <a href="https://mevlutcelik.com/" target="_blank" rel="noreferrer">
     <picture>
       <source srcset="https://raw.githubusercontent.com/mevlutcelik/mevlutcelik/refs/heads/main/glasses_white.png" media="(prefers-color-scheme: dark)">
-       <img style="height:64px;" src="https://raw.githubusercontent.com/mevlutcelik/mevlutcelik/refs/heads/main/glasses.png" alt="Mevlüt Çelik">
+       <img style="height:64px;" height="64" src="https://raw.githubusercontent.com/mevlutcelik/mevlutcelik/refs/heads/main/glasses.png" alt="Mevlüt Çelik">
     </picture>
   </a>
 </p>
