@@ -13,7 +13,7 @@
 <br/>
 
 ## 👋 Hakkımda
-Ben Mevlüt Çelik, yazılım geliştiricisiyim. 9 yılı aşkın süredir **full-stack** geliştirme yapıyor, **PHP/Laravel** ve **Node.js/Express** tabanlı backend çözümleri üretiyorum. Frontend tarafında ise **HTML, CSS, JavaScript**, modern çerçeveler olarak **React**, **Next.js** ve **Vue.js** kullanıyorum.  
+Ben Mevlüt Çelik, yazılım geliştiricisiyim. 11 yılı aşkın süredir **full-stack** geliştirme yapıyor, **PHP/Laravel** ve **Node.js/Express** tabanlı backend çözümleri üretiyorum. Frontend tarafında ise **HTML, CSS, JavaScript**, modern çerçeveler olarak **React**, **Next.js** ve **Vue.js** kullanıyorum.  
 Ayrıca mobil uygulamalar için **React Native** ile güvenli ve kullanıcı dostu mobil deneyimler tasarlıyorum. Akademik projeler ve araştırma makaleleri yazıyor, **ByteOpia Dergi**’nin editörlüğünü yürütüyorum.
 
 - 🎓 **Eğitim:** Muş Alparslan Üniversitesi Uygulamalı Bilimler Fakültesi Bilişim Sistemleri ve Teknolojileri Bölümü
