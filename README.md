@@ -1,119 +1,93 @@
-<p align="center">
-  <a href="https://www.mevlutcelik.com/" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/v2/D4D16AQGhdWNBuP9PeA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720786925840?e=1740009600&v=beta&t=q-hWRrondUpZwMH-_7rVDgYTIHWlUhkpNhptU5o35GA" alt="Mevlüt Çelik"></a>
+<p align="left">
+  <a href="https://mevlutcelik.com/" target="_blank" rel="noreferrer">
+    <img style="height:64px;" src="https://www.svgrepo.com/show/473213/glasses.svg" alt="Mevlüt Çelik">
+  </a>
 </p>
 
-<h3 align="center">
-Hi there, I'm <a href="https://www.mevlutcelik.com/" target="_blank" rel="noreferrer">Mevlüt Çelik</a> 👋
-</h3>
-
-<h2 align="center">
-I'm a Software Developer 💻
-</h2>
-
-<p align="center">Full Stack Developer | Web | Mobil | Frontend | Backend</p>
-
-I like the whole process of developing innovative websites.  When designing my websites, I take care that they are Responsive, Accessible, SEO-Compliant, and High-Performance.
+<h1 align="left">Merhaba, ben <a href="https://mevlutcelik.com/" target="_blank" rel="noreferrer">Mevlüt Çelik</a> 👋</h1>
+<p align="left">Yazılım Geliştirici 💻 &nbsp;|&nbsp; Full Stack &nbsp;|&nbsp; Web &nbsp;|&nbsp; Mobil &nbsp;|&nbsp; Frontend &nbsp;|&nbsp; Backend</p>
 
 <br/>
 
-## 🔢 GitHub Profile Views
+## 👋 Hakkımda
+Ben Mevlüt Çelik, Muş Alparslan Üniversitesi kökenli bir yazılım geliştiricisiyim. 9 yılı aşkın süredir **full-stack** geliştirme yapıyor, **PHP/Laravel** ve **Node.js/Express** tabanlı backend çözümleri üretiyorum. Frontend tarafında ise **HTML, CSS, JavaScript**, modern çerçeveler olarak **React**, **Next.js** ve **Vue.js** kullanıyorum.  
+Ayrıca mobil uygulamalar için **React Native** ile güvenli ve kullanıcı dostu mobil deneyimler tasarlıyorum. Akademik projeler ve araştırma makaleleri yazıyor, **ByteOpia Dergi**’nin editörlüğünü yürütüyorum.
 
-![](https://komarev.com/ghpvc/?username=mevlutcelik&label=Profile%20views&color=1a73E8&style=flat)
-
-<br/>
-
-### 🤝 Connect with me:
-
-<a target="_blank" title="Mevlüt Çelik | Web Site (www.mevlutcelik.com)" href="https://www.mevlutcelik.com/"><img align="left" src="https://img.shields.io/badge/website-1a73e8?style=for-the-badge&logo=About.me&logoColor=white" alt="www.mevlutcelik.com"/></a>
-<a target="_blank" title="Mevlüt Çelik | LikedIn" href="https://www.linkedin.com/in/mevlutcelik/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mevlüt Çelik | LinkedIn"/></a>
-<a target="_blank" title="Mevlüt Çelik | Codepen" href="https://codepen.io/mevlut"><img align="left" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Mevlüt Çelik | Codepen"/></a>
-<a target="_blank" title="@mevlut.celik23 | Instagram" href="https://www.instagram.com/mevlut.celik23/"><img align="left" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="@mevlut.celik23 | Instagram"/></a>
-<a target="_blank" title="Mevlüt Çelik | GitHub" href="https://github.com/mevlutcelik"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Mevlüt Çelik | GitHub"/></a>
-<a target="_blank" title="info@mevlutcelik.com | E-mail" href="mailto:info@mevlutcelik.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="info@mevlutcelik.com | E-mail"/></a>
-
-<br/><br/>
-
-🌐 **Web site**: <a title="Mevlüt Çelik | Web Site (www.mevlutcelik.com)" href="https://www.mevlutcelik.com/" target="_blank">www.mevlutcelik.com</a><br/>
-💼 **LinkedIn**: <a title="Mevlüt Çelik | LinkedIn" href="https://www.linkedin.com/in/mevlutcelik" target="_blank">Mevlüt Çelik</a><br/>
-🧑‍💻 **Codepen**: <a title="Mevlüt Çelik | Codepen" href="https://www.codepen.io/mevlut" target="_blank">Mevlüt Çelik</a><br/>
-🧑 **Instagram**: <a title="@mevlut.celik23 | Instagram" href="https://www.instagram.com/mevlut.celik23" target="_blank">@mevlut.celik23</a><br/>
-🐈‍⬛ **GitHub**: <a title="Mevlüt Çelik | GitHub" href="https://github.com/mevlutcelik" target="_blank">Mevlüt Çelik</a><br/>
-📩 **E-mail**: <a title="info@mevlutcelik.com" href="mailto:info@mevlutcelik.com" target="_blank">info@mevlutcelik.com</a><br/><br/>
-
-### 🤔 What is my goal?
-
-My goal is to help anyone who wants to learn software. To be able to teach even people who do not know the software at all.
+- 🎓 **Eğitim:** Muş Alparslan Üniversitesi Uygulamalı Bilimler Fakültesi Bilişim Sistemleri ve Teknolojileri Bölümü
 
 <br/>
 
-### 🎈 My favorite sentence
+### 🤝 Bağlantıda Kalın
 
-"The shortest way to make dreams come true is to wake up"
+<p align="left">
+  <a target="_blank" title="Mevlüt Çelik | Web Sitesi" href="https://mevlutcelik.com/"><img align="left" src="https://img.shields.io/badge/mevlutcelik.com-623927?style=for-the-badge&logo=mevlutcelik&logoColor=white" alt="mevlutcelik.com"/></a>
+  <a target="_blank" title="Mevlüt Çelik | LinkedIn" href="https://www.linkedin.com/in/mevlutcelik/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0270AD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a target="_blank" title="Mevlüt Çelik | CodePen" href="https://codepen.io/mevlut"><img align="left" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/></a>
+  <a target="_blank" title="@mevlut.celik23 | Instagram" href="https://www.instagram.com/mevlut.celik23/"><img align="left" src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a target="_blank" title="Mevlüt Çelik | GitHub" href="https://github.com/mevlutcelik"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a target="_blank" title="info@mevlutcelik.com | E-posta" href="mailto:info@mevlutcelik.com"><img align="left" src="https://img.shields.io/badge/info@mevlutcelik.com-ec8100?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-posta"/></a>
+</p>
 
-<br/>
+<br/><br/><br/>
 
-## 💼 Technical Skills
+## 🚀 Yeteneklerim
 
 ### ✨ Frontend
 <a href="#!">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
 <a href="#!">![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a>
-<a href="#!">![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)</a>
-<a href="#!">![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)</a>
-<a href="#!">![Material Design](https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white)</a>
-<a href="#!">![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)</a>
-<a href="#!">![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)</a>
 <a href="#!">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
-<a href="#!">![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)</a>
+<a href="#!">![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</a>
 <a href="#!">![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
+<a href="#!">![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)</a>
+<a href="#!">![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)</a>
+<a href="#!">![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)</a>
+<a href="#!">![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-FFFFFF?style=for-the-badge&logo=shadcn&logoColor=black)</a>
 
 ### ⚛️ Backend
-<a href="#!">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</a>
-<a href="#!">![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)</a>
-<a href="#!">![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)</a>
 <a href="#!">![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)</a>
 <a href="#!">![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)</a>
-<a href="#!">![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)</a>
-<a href="#!">![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)</a>
-<a href="#!">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
-
-### 📦 Database
+<a href="#!">![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</a>
+<a href="#!">![Express](https://img.shields.io/badge/Express.js-%23404D59?style=for-the-badge&logo=express&logoColor=%2361DAFB)</a>
 <a href="#!">![MySQL](https://img.shields.io/badge/mysql-%23DD8A00.svg?style=for-the-badge&logo=mysql&logoColor=white)</a>
-<a href="#!">![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</a>
+<a href="#!">![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)</a>
+<a href="#!">![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</a>
+<a href="#!">![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)</a>
+<a href="#!">![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)</a>
+<a href="#!">![ASP.NET](https://img.shields.io/badge/ASP.NET-%23239120?style=for-the-badge&logo=asp.net&logoColor=white)</a>
 
-### ☁️ Cloud & Server
+### 📱 Mobil
+<a href="#!">![React Native](https://img.shields.io/badge/React_Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)</a>
+<a href="#!">![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)</a>
+<a href="#!">![NativeWind](https://img.shields.io/badge/NativeWind-%235A67D8?style=for-the-badge&logo=tailwindcss&logoColor=white)</a>
+
+### 🤖 Makine Öğrenmesi & Veri Bilimi
+<a href="#!">![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)</a>
+<a href="#!">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
+<a href="#!">![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)</a>
+<a href="#!">![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)</a>
+<a href="#!">![matplotlib](https://img.shields.io/badge/matplotlib-%23E54C1C.svg?style=for-the-badge&logo=matplotlib&logoColor=white)</a>
+
+### ☁️ Bulut & Sunucu
+<a href="#!">![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)</a>
+<a href="#!">![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)</a>
+<a href="#!">![NGINX](https://img.shields.io/badge/NGINX-%2328A84D.svg?style=for-the-badge&logo=nginx&logoColor=white)</a>
 <a href="#!">![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)</a>
-<a href="#!">![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)</a>
-<a href="#!">![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)</a>
-<a href="#!">![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)</a>
+<a href="#!">![aaPanel](https://img.shields.io/badge/aaPanel-%23007f00?style=for-the-badge&logo=aapanel&logoColor=white)</a>
 
-### 🎨 Design
-<a href="#!">![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)</a>
-<a href="#!">![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</a>
-
-### ✍️ Text Formatting
-<a href="#!">![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)</a>
-
-<br/><br/>
-
-## 📊 Most Used Language
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutcelik&layout=compact&theme=dark&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
-  <img title="Mevlüt Çelik | Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutcelik&layout=compact">
-</picture>
+### 🔧 Araçlar & Diğer Yetenekler
+<a href="#!">![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)</a>
+<a href="#!">![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="#!">![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)</a>
+<a href="#!">![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)</a>
+<a href="#!">![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)</a>
+<a href="#!">![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)</a>
+<a href="#!">![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)</a>
 
 <br/><br/>
 
-## 📟 GitHub Stats
+## 📈 GitHub İstatistikler
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=mevlutcelik&show_icons=true&theme=radical&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
-  <img title="Mevlüt Çelik | GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mevlutcelik&show_icons=true">
-</picture>
-
-<br/><br/>
-
-## 🔥 GitHub Streak
+### 🔥 GitHub Streak
 
 <picture>
   <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=mevlutcelik&theme=dark&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
@@ -122,7 +96,25 @@ My goal is to help anyone who wants to learn software. To be able to teach even 
 
 <br/><br/>
 
-## 🏆 GitHub Trophies
+### 📊 Top Language
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutcelik&layout=compact&theme=dark&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
+  <img title="Mevlüt Çelik | Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutcelik&layout=compact">
+</picture>
+
+<br/><br/>
+
+### 📟 GitHub Stats
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=mevlutcelik&show_icons=true&theme=radical&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
+  <img title="Mevlüt Çelik | GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mevlutcelik&show_icons=true">
+</picture>
+
+<br/><br/>
+
+### 🏆 GitHub Trophies
 
 <picture>
   <source srcset="https://github-profile-trophy.vercel.app/?username=mevlutcelik&column=8&theme=radical&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
@@ -131,16 +123,15 @@ My goal is to help anyone who wants to learn software. To be able to teach even 
 
 <br/><br/>
 
-## 📈 Contribution Graph
 
-<picture>
-  <source srcset="https://activity-graph.herokuapp.com/graph?username=mevlutcelik&color=1a73e8&line=1a73e8&point=1b9ce6&area=true&hide_border=true&theme=dark&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
-  <img title="Mevlüt Çelik | Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=mevlutcelik&bg_color=ffffff&color=1b9ce6&line=1b9ce6&point=1b9ce6&area=true&hide_border=true">
-</picture>
+## 📫 İletişim
+- 🌐 **Web Sitesi:** [mevlutcelik.com](https://mevlutcelik.com)  
+- 📧 **E-posta:** <a href="mailto:info@mevlutcelik.com">info@mevlutcelik.com</a>  
+- 🔗 **LinkedIn:** [linkedin.com/in/mevlutcelik](https://www.linkedin.com/in/mevlutcelik) 
 
-<br/>
+<br/><br/>
 
-
-## 👀 Repo Overview
-
-<img src="https://opengraph.githubassets.com/098fd83e7ce68376eb2e01003a55eb7e1eb8b093aeda5e7d87ce9bd2a7d0d0f8/mevlutcelik/mevlutcelik" alt="Mevlüt Çelik (mevlutcelik) | Repo Overview" width="400"/>
+<p align="center">
+  <sub>Bu README, GitHub profilimdeki ziyaretçilere beni, projelerimi ve yetkinliklerimi hızlıca tanıtmak amacıyla hazırlanmıştır.</sub><br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=mevlutcelik&label=Profil%20Görüntüleme&color=1a73E8&style=flat" alt="GitHub Profile Views" />
+</p>
