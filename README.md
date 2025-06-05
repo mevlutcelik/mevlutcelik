@@ -28,7 +28,7 @@ Ayrıca mobil uygulamalar için **React Native** ile güvenli ve kullanıcı dos
   <a target="_blank" title="Mevlüt Çelik | CodePen" href="https://codepen.io/mevlut"><img align="left" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/></a>
   <a target="_blank" title="@mevlut.celik23 | Instagram" href="https://www.instagram.com/mevlut.celik23/"><img align="left" src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a target="_blank" title="Mevlüt Çelik | GitHub" href="https://github.com/mevlutcelik"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a target="_blank" title="info@mevlutcelik.com | E-posta" href="mailto:info@mevlutcelik.com"><img align="left" src="https://img.shields.io/badge/info@mevlutcelik.com-ec8100?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-posta"/></a>
+  <a target="_blank" title="info@mevlutcelik.com | E-posta" href="mailto:info@mevlutcelik.com"><img align="left" src="https://img.shields.io/badge/mail-ec8100?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-posta"/></a>
 </p>
 
 <br/><br/><br/>
