@@ -1,6 +1,9 @@
 <p align="left">
   <a href="https://mevlutcelik.com/" target="_blank" rel="noreferrer">
-    <img style="height:64px;" src="https://raw.githubusercontent.com/mevlutcelik/mevlutcelik/refs/heads/main/glasses.svg" alt="Mevlüt Çelik">
+    <picture>
+      <source srcset="https://raw.githubusercontent.com/mevlutcelik/mevlutcelik/refs/heads/main/glasses_white.svg" media="(prefers-color-scheme: dark)">
+       <img style="height:64px;" src="https://raw.githubusercontent.com/mevlutcelik/mevlutcelik/refs/heads/main/glasses.svg" alt="Mevlüt Çelik">
+    </picture>
   </a>
 </p>
 
