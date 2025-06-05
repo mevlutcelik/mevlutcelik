@@ -2,7 +2,7 @@
   <a href="https://mevlutcelik.com/" target="_blank" rel="noreferrer">
     <picture>
       <source srcset="https://raw.githubusercontent.com/mevlutcelik/mevlutcelik/refs/heads/main/glasses_white.png" media="(prefers-color-scheme: dark)">
-       <img style="height:64px;" height="64" src="https://raw.githubusercontent.com/mevlutcelik/mevlutcelik/refs/heads/main/glasses.png" alt="Mevlüt Çelik">
+      <img style="height:64px;" height="64" src="https://raw.githubusercontent.com/mevlutcelik/mevlutcelik/refs/heads/main/glasses.png" alt="Mevlüt Çelik">
     </picture>
   </a>
 </p>
@@ -35,56 +35,53 @@ Ayrıca mobil uygulamalar için **React Native** ile güvenli ve kullanıcı dos
 
 ## 🚀 Yeteneklerim
 
-### ✨ Frontend
-<a href="#!">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
-<a href="#!">![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a>
-<a href="#!">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
-<a href="#!">![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</a>
-<a href="#!">![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
-<a href="#!">![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)</a>
-<a href="#!">![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)</a>
-<a href="#!">![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)</a>
-<a href="#!">![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-FFFFFF?style=for-the-badge&logo=shadcn&logoColor=black)</a>
-
-### ⚛️ Backend
-<a href="#!">![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)</a>
-<a href="#!">![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)</a>
-<a href="#!">![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</a>
-<a href="#!">![Express](https://img.shields.io/badge/Express.js-%23404D59?style=for-the-badge&logo=express&logoColor=%2361DAFB)</a>
-<a href="#!">![MySQL](https://img.shields.io/badge/mysql-%23DD8A00.svg?style=for-the-badge&logo=mysql&logoColor=white)</a>
-<a href="#!">![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)</a>
-<a href="#!">![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</a>
-<a href="#!">![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)</a>
-<a href="#!">![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)</a>
-<a href="#!">![ASP.NET](https://img.shields.io/badge/ASP.NET-%23239120?style=for-the-badge&logo=asp.net&logoColor=white)</a>
-
-### 📱 Mobil
-<a href="#!">![React Native](https://img.shields.io/badge/React_Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)</a>
-<a href="#!">![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)</a>
-<a href="#!">![NativeWind](https://img.shields.io/badge/NativeWind-%235A67D8?style=for-the-badge&logo=tailwindcss&logoColor=white)</a>
-
-### 🤖 Makine Öğrenmesi & Veri Bilimi
-<a href="#!">![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)</a>
-<a href="#!">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
-<a href="#!">![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)</a>
-<a href="#!">![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)</a>
-<a href="#!">![matplotlib](https://img.shields.io/badge/matplotlib-%23E54C1C.svg?style=for-the-badge&logo=matplotlib&logoColor=white)</a>
-
-### ☁️ Bulut & Sunucu
-<a href="#!">![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)</a>
-<a href="#!">![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)</a>
-<a href="#!">![NGINX](https://img.shields.io/badge/NGINX-%2328A84D.svg?style=for-the-badge&logo=nginx&logoColor=white)</a>
-<a href="#!">![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)</a>
-<a href="#!">![aaPanel](https://img.shields.io/badge/aaPanel-%23007f00?style=for-the-badge&logo=aapanel&logoColor=white)</a>
-
-### 🔧 Araçlar & Diğer Yetenekler
-<a href="#!">![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)</a>
-<a href="#!">![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)</a>
-<a href="#!">![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)</a>
-<a href="#!">![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)</a>
-<a href="#!">![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)</a>
-<a href="#!">![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)</a>
-<a href="#!">![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)</a>
+<p align="left">
+  <!-- Frontend -->
+  <a href="https://html5.org" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5" width="32" height="32" /></a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="32" height="32" /></a>
+  <a href="https://www.javascript.com" target="_blank"><img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript" width="32" height="32" /></a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript" width="32" height="32" /></a>
+  <a href="https://react.dev" target="_blank"><img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React" width="32" height="32" /></a>
+  <a href="https://nextjs.org" target="_blank"><img src="https://cdn.simpleicons.org/nextdotjs/000000?size=32" alt="Next.js" width="32" height="32" /></a>
+  <a href="https://vuejs.org" target="_blank"><img src="https://cdn.simpleicons.org/vuedotjs/4FC08D?size=32" alt="Vue.js" width="32" height="32" /></a>
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS" width="32" height="32" /></a>
+  <a href="https://ui.shadcn.com" target="_blank"><img src="https://cdn.simpleicons.org/shadcnui/000000?size=32" alt="ShadCN UI" width="32" height="32" /></a>
+  <!-- Backend -->
+  <a href="https://www.php.net" target="_blank"><img src="https://cdn.simpleicons.org/php/777BB4?size=32" alt="PHP" width="32" height="32" /></a>
+  <a href="https://laravel.com" target="_blank"><img src="https://cdn.simpleicons.org/laravel/FF2D20?size=32" alt="Laravel" width="32" height="32" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/339933?size=32" alt="Node.js" width="32" height="32" /></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://cdn.simpleicons.org/express/000000?size=32" alt="Express.js" width="32" height="32" /></a>
+  <a href="https://mysql.com" target="_blank"><img src="https://cdn.simpleicons.org/mysql/4479A1?size=32" alt="MySQL" width="32" height="32" /></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.simpleicons.org/postgresql/336791?size=32" alt="PostgreSQL" width="32" height="32" /></a>
+  <a href="https://mongodb.com" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/47A248?size=32" alt="MongoDB" width="32" height="32" /></a>
+  <a href="https://docs.microsoft.com/dotnet/csharp" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" width="32" height="32" /></a>
+  <a href="https://dotnet.microsoft.com" target="_blank"><img src="https://cdn.simpleicons.org/dotnet/512BD4?size=32" alt=".NET" width="32" height="32" /></a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img src="https://www.svgrepo.com/show/508894/aspnet.svg" alt="ASP.NET" width="32" height="32" /></a>
+  <!-- Mobile -->
+  <a href="https://reactnative.dev" target="_blank"><img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React Native" width="32" height="32" /></a>
+  <a href="https://expo.dev" target="_blank"><img src="https://cdn.simpleicons.org/expo/1B1F23?size=32" alt="Expo" width="32" height="32" /></a>
+  <a href="https://nativewind.dev" target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="NativeWind" width="32" height="32" /></a>
+  <!-- Machine Learning & Data Science -->
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Matlab_icon.png" alt="MATLAB" width="32" height="32" /></a>
+  <a href="https://octave.org/" target="_blank"><img src="https://cdn.simpleicons.org/octave/0790C0?size=32" alt="Octave" width="32" height="32" /></a>
+  <a href="https://python.org" target="_blank"><img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python" width="32" height="32" /></a>
+  <a href="https://pandas.pydata.org" target="_blank"><img src="https://cdn.simpleicons.org/pandas/150458?size=32" alt="Pandas" width="32" height="32" /></a>
+  <a href="https://numpy.org" target="_blank"><img src="https://cdn.simpleicons.org/numpy/013243?size=32" alt="NumPy" width="32" height="32" /></a>
+  <!-- Cloud & Server -->
+  <a href="https://docker.com" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED?size=32" alt="Docker" width="32" height="32" /></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.simpleicons.org/githubactions/2088FF?size=32" alt="GitHub Actions" width="32" height="32" /></a>
+  <a href="https://nginx.org" target="_blank"><img src="https://cdn.simpleicons.org/nginx/009639?size=32" alt="NGINX" width="32" height="32" /></a>
+  <a href="https://cloudflare.com" target="_blank"><img src="https://cdn.simpleicons.org/cloudflare/F38020?size=32" alt="Cloudflare" width="32" height="32" /></a>
+  <a href="https://aapanel.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/AaPanel_Logo.png" alt="aaPanel" width="32" height="32" /></a>
+  <!-- Tools & Other Skills -->
+  <a href="https://git-scm.com" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git" width="32" height="32" /></a>
+  <a href="https://github.com" target="_blank"><img src="https://cdn.simpleicons.org/github/181717?size=32" alt="GitHub" width="32" height="32" /></a>
+  <a href="https://chat.openai.com" target="_blank"><img src="https://cdn.simpleicons.org/openai/412991?size=32" alt="ChatGPT" width="32" height="32" /></a>
+  <a href="https://github.com/features/copilot" target="_blank"><img src="https://cdn.simpleicons.org/githubcopilot/8957E5?size=32" alt="GitHub Copilot" width="32" height="32" /></a>
+  <a href="https://gemini.google.com" target="_blank"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2?size=32" alt="Google Gemini" width="32" height="32" /></a>
+  <a href="https://tensorflow.org" target="_blank"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00?size=32" alt="TensorFlow" width="32" height="32" /></a>
+  <a href="https://pytorch.org" target="_blank"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C?size=32" alt="PyTorch" width="32" height="32" /></a>
+</p>
 
 <br/><br/>
 
@@ -92,40 +89,47 @@ Ayrıca mobil uygulamalar için **React Native** ile güvenli ve kullanıcı dos
 
 ### 🔥 GitHub Streak
 
-<picture>
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=mevlutcelik&theme=dark&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
-  <img title="Mevlüt Çelik | GitHub Streak" src="https://streak-stats.demolab.com?user=mevlutcelik">
-</picture>
+<p align="left">
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=mevlutcelik&theme=dark&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
+    <img title="Mevlüt Çelik | GitHub Streak" src="https://streak-stats.demolab.com?user=mevlutcelik" alt="GitHub Streak">
+  </picture>
+</p>
 
 <br/><br/>
 
 ### 📊 Top Language
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutcelik&layout=compact&theme=dark&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
-  <img title="Mevlüt Çelik | Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutcelik&layout=compact">
-</picture>
+<p align="left">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutcelik&layout=compact&theme=dark&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
+    <img title="Mevlüt Çelik | Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutcelik&layout=compact" alt="Top Languages">
+  </picture>
+</p>
 
 <br/><br/>
 
 ### 📟 GitHub Stats
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=mevlutcelik&show_icons=true&theme=radical&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
-  <img title="Mevlüt Çelik | GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mevlutcelik&show_icons=true">
-</picture>
+<p align="left">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=mevlutcelik&show_icons=true&theme=radical&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
+    <img title="Mevlüt Çelik | GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mevlutcelik&show_icons=true" alt="GitHub Stats">
+  </picture>
+</p>
 
 <br/><br/>
 
 ### 🏆 GitHub Trophies
 
-<picture>
-  <source srcset="https://github-profile-trophy.vercel.app/?username=mevlutcelik&column=8&theme=radical&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
-  <img title="Mevlüt Çelik | GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=mevlutcelik&column=8">
-</picture>
+<p align="left">
+  <picture>
+    <source srcset="https://github-profile-trophy.vercel.app/?username=mevlutcelik&column=8&theme=radical&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
+    <img title="Mevlüt Çelik | GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=mevlutcelik&column=8" alt="GitHub Trophies">
+  </picture>
+</p>
 
 <br/><br/>
-
 
 ## 📫 İletişim
 - 🌐 **Web Sitesi:** [mevlutcelik.com](https://mevlutcelik.com)  
