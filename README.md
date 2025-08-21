@@ -80,6 +80,7 @@ Ben Mevlüt Çelik, yazılım geliştiricisiyim. 11 yılı aşkın süredir **fu
   <a href="https://gemini.google.com" target="_blank"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2?size=32" alt="Google Gemini" width="32" height="32" /></a>
   <a href="https://tensorflow.org" target="_blank"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00?size=32" alt="TensorFlow" width="32" height="32" /></a>
   <a href="https://pytorch.org" target="_blank"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C?size=32" alt="PyTorch" width="32" height="32" /></a>
+  <a href="https://pytorch.org" target="_blank"><img src="https://cdn.simpleicons.org/raspberrypi/A22846?size=32" alt="Raspberrypi" width="32" height="32" /></a>
 </p>
 
 <br/><br/>
