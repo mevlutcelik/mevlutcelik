@@ -36,51 +36,56 @@ Ben Mevlüt Çelik, yazılım geliştiricisiyim. 11 yılı aşkın süredir **fu
 
 <p align="left">
   <!-- Frontend -->
-  <a href="https://html5.org" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5" width="32" height="32" /></a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="32" height="32" /></a>
-  <a href="https://www.javascript.com" target="_blank"><img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript" width="32" height="32" /></a>
-  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript" width="32" height="32" /></a>
-  <a href="https://react.dev" target="_blank"><img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React" width="32" height="32" /></a>
-  <a href="https://nextjs.org" target="_blank"><img src="https://cdn.simpleicons.org/nextdotjs/000000?size=32" alt="Next.js" width="32" height="32" /></a>
-  <a href="https://vuejs.org" target="_blank"><img src="https://cdn.simpleicons.org/vuedotjs/4FC08D?size=32" alt="Vue.js" width="32" height="32" /></a>
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS" width="32" height="32" /></a>
-  <a href="https://ui.shadcn.com" target="_blank"><img src="https://cdn.simpleicons.org/shadcnui/000000?size=32" alt="ShadCN UI" width="32" height="32" /></a>
+  <img src="https://cdn.simpleicons.org/html5/E34F26?size=32" width="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="32" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/shadcnui/000000?size=32" width="32" />
+
   <!-- Backend -->
-  <a href="https://www.php.net" target="_blank"><img src="https://cdn.simpleicons.org/php/777BB4?size=32" alt="PHP" width="32" height="32" /></a>
-  <a href="https://laravel.com" target="_blank"><img src="https://cdn.simpleicons.org/laravel/FF2D20?size=32" alt="Laravel" width="32" height="32" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/339933?size=32" alt="Node.js" width="32" height="32" /></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://cdn.simpleicons.org/express/000000?size=32" alt="Express.js" width="32" height="32" /></a>
-  <a href="https://mysql.com" target="_blank"><img src="https://cdn.simpleicons.org/mysql/4479A1?size=32" alt="MySQL" width="32" height="32" /></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.simpleicons.org/postgresql/336791?size=32" alt="PostgreSQL" width="32" height="32" /></a>
-  <a href="https://mongodb.com" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/47A248?size=32" alt="MongoDB" width="32" height="32" /></a>
-  <a href="https://docs.microsoft.com/dotnet/csharp" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" width="32" height="32" /></a>
-  <a href="https://dotnet.microsoft.com" target="_blank"><img src="https://cdn.simpleicons.org/dotnet/512BD4?size=32" alt=".NET" width="32" height="32" /></a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img src="https://www.svgrepo.com/show/508894/aspnet.svg" alt="ASP.NET" width="32" height="32" /></a>
+  <img src="https://cdn.simpleicons.org/php/777BB4?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/express/000000?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/postgresql/336791?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248?size=32" width="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="32" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4?size=32" width="32" />
+  <img src="https://www.svgrepo.com/show/508894/aspnet.svg" width="32" />
+
   <!-- Mobile -->
-  <a href="https://reactnative.dev" target="_blank"><img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React Native" width="32" height="32" /></a>
-  <a href="https://expo.dev" target="_blank"><img src="https://cdn.simpleicons.org/expo/1B1F23?size=32" alt="Expo" width="32" height="32" /></a>
-  <a href="https://nativewind.dev" target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="NativeWind" width="32" height="32" /></a>
+  <img src="https://cdn.simpleicons.org/react/61DAFB?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/expo/1B1F23?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" width="32" />
+
   <!-- Machine Learning & Data Science -->
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Matlab_icon.png" alt="MATLAB" width="32" height="32" /></a>
-  <a href="https://octave.org/" target="_blank"><img src="https://cdn.simpleicons.org/octave/0790C0?size=32" alt="Octave" width="32" height="32" /></a>
-  <a href="https://python.org" target="_blank"><img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python" width="32" height="32" /></a>
-  <a href="https://pandas.pydata.org" target="_blank"><img src="https://cdn.simpleicons.org/pandas/150458?size=32" alt="Pandas" width="32" height="32" /></a>
-  <a href="https://numpy.org" target="_blank"><img src="https://cdn.simpleicons.org/numpy/013243?size=32" alt="NumPy" width="32" height="32" /></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Matlab_icon.png" width="32" />
+  <img src="https://cdn.simpleicons.org/octave/0790C0?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/python/3776AB?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/pandas/150458?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/numpy/013243?size=32" width="32" />
+
   <!-- Cloud & Server -->
-  <a href="https://docker.com" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED?size=32" alt="Docker" width="32" height="32" /></a>
-  <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.simpleicons.org/githubactions/2088FF?size=32" alt="GitHub Actions" width="32" height="32" /></a>
-  <a href="https://nginx.org" target="_blank"><img src="https://cdn.simpleicons.org/nginx/009639?size=32" alt="NGINX" width="32" height="32" /></a>
-  <a href="https://cloudflare.com" target="_blank"><img src="https://cdn.simpleicons.org/cloudflare/F38020?size=32" alt="Cloudflare" width="32" height="32" /></a>
-  <a href="https://aapanel.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/AaPanel_Logo.png" alt="aaPanel" width="32" height="32" /></a>
+  <img src="https://cdn.simpleicons.org/docker/2496ED?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/nginx/009639?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020?size=32" width="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/AaPanel_Logo.png" width="32" />
+
   <!-- Tools & Other Skills -->
-  <a href="https://git-scm.com" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git" width="32" height="32" /></a>
-  <a href="https://github.com" target="_blank"><img src="https://cdn.simpleicons.org/github/181717?size=32" alt="GitHub" width="32" height="32" /></a>
-  <a href="https://chat.openai.com" target="_blank"><img src="https://cdn.simpleicons.org/openai/412991?size=32" alt="ChatGPT" width="32" height="32" /></a>
-  <a href="https://github.com/features/copilot" target="_blank"><img src="https://cdn.simpleicons.org/githubcopilot/8957E5?size=32" alt="GitHub Copilot" width="32" height="32" /></a>
-  <a href="https://gemini.google.com" target="_blank"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2?size=32" alt="Google Gemini" width="32" height="32" /></a>
-  <a href="https://tensorflow.org" target="_blank"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00?size=32" alt="TensorFlow" width="32" height="32" /></a>
-  <a href="https://pytorch.org" target="_blank"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C?size=32" alt="PyTorch" width="32" height="32" /></a>
-  <a href="https://pytorch.org" target="_blank"><img src="https://cdn.simpleicons.org/raspberrypi/A22846?size=32" alt="Raspberrypi" width="32" height="32" /></a>
+  <img src="https://cdn.simpleicons.org/git/F05032?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/github/181717?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/openai/412991?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/githubcopilot/8957E5?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C?size=32" width="32" />
+  <img src="https://cdn.simpleicons.org/raspberrypi/A22846?size=32" width="32" />
 </p>
 
 <br/><br/>
