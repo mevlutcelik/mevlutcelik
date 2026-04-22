@@ -80,7 +80,7 @@ Ben Mevlüt Çelik, yazılım geliştiricisiyim. 11 yılı aşkın süredir **fu
   <!-- Tools & Other Skills -->
   <img src="https://cdn.simpleicons.org/git/F05032?size=32" width="32" />
   <img src="https://cdn.simpleicons.org/github/181717?size=32" width="32" />
-  <img src="https://cdn.simpleicons.org/openai/412991?size=32" width="32" />
+  <img src="https://www.svgrepo.com/show/306500/openai.svg" width="32" />
   <img src="https://cdn.simpleicons.org/githubcopilot/8957E5?size=32" width="32" />
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2?size=32" width="32" />
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00?size=32" width="32" />
